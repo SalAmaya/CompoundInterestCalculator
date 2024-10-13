@@ -1,0 +1,17 @@
+body{
+    background-color: whitesmoke;
+}
+
+.pane{
+    text-align: center;
+    background-color: powderblue;
+    font-family: Bahnschrift, serif;
+    border: 2px groove deepskyblue;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 500px;
+    width: 600px;
+    box-shadow: 10px 5px 5px red;
+}
+
